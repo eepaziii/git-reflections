@@ -1,1 +1,6 @@
-Hello world. 
+Day 1: June 2nd.
+
+  After spending a semester learning this stuff, I feel like the CodeAcademy tutorial is so slow and basic. Then again, I've always felt that about many tutorials. To be more intellectual about it: this sort of learning is all rote; it focuses on Selber's functional literacy -- how to use the language as an acontextual skill. It lacks any rhetorical or critical knowledge. Why would I do this? Why not? What affordances does it lend me? It's so uninteresting. My goodness.
+  After 1 hour of working through this tutorial, I am ridiculously bored and on the verge of quitting.
+  Would this be the case if I were starting from scratch? How deep down the hole do I have to go before it gets interesting and exciting?
+  Reminds me of the Mario game I'm playing right now. The first world feels like a tutorial. It's simple, easy to understand. Beating it is a matter of time, not a matter of skill -- but that's likely because I'm so acclimated to that sort of knowledge. I'm robbed of that simple joy because I'm overwhelmed with simplicity without depth. Alas.
